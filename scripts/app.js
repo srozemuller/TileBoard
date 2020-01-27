@@ -24,6 +24,7 @@ var CUSTOM_THEMES = {
    HOMEKIT: "homekit",
    FRESH_AIR: "fresh-air",
    WHITE_PAPER: "white-paper",
+   MATERIAL_DARK: "dark"
 };
 
 var PASSWORD_TYPES = {};
@@ -69,7 +70,8 @@ var HEADER_ITEMS = {
    DATE: 'date',
    DATETIME: 'datetime',
    WEATHER: 'weather',
-   CUSTOM_HTML: 'custom_html'
+   CUSTOM_HTML: 'custom_html',
+   DARK_MODE_TOGGLE: 'dark_mode',
 };
 
 var SCREENSAVER_ITEMS = HEADER_ITEMS;
